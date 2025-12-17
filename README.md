@@ -5,10 +5,15 @@
 ------FUNCTIONALITY------
 
 • The program asks the user to put an interger number.
+
 • It uses Python's input() function to take the input from the user.
+
 • The entered number is converted into a interger using int().
+
 • An --[if-else]-- statement checks this condition( num % 2 == 0 ) is True or False.
+
 • If the condition is True then the "if" statement is printed , means the given number is even.
+
 • If the condition is False then the "else" statement is printed , means the given number is odd.
 
 
